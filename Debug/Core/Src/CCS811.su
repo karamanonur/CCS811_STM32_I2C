@@ -1,0 +1,9 @@
+CCS811.c:17:13:CCS811_SoftwareReset	24	static
+CCS811.c:35:13:CCS811_ApplicationStart	24	static
+CCS811.c:45:16:CCS811_ReadStatus	24	static
+CCS811.c:59:13:CCS811_SetMeasureMode	48	static
+CCS811.c:90:13:CCS811_GetAlgorithmResultsData	40	static
+CCS811.c:116:6:CCS811_IdleMode	16	static
+CCS811.c:123:6:CCS811_WakeUp	16	static
+CCS811.c:130:6:CCS811_ReadData	8	static
+CCS811.c:135:6:CCS822_Init	48	static
